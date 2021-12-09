@@ -1,6 +1,6 @@
 # Computational_Data_Science
 
-This are my solutions for the Computational Data Science course 50.038.
+These are my solutions for the Lab exercises in the Computational Data Science course, 50.038.
 
 Lab | Topics | Solutions
 ------------ | ------------- | -------------
