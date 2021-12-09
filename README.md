@@ -15,3 +15,4 @@ Lab | Topics | Solutions
 7b | Word2vec Part 2 | [Solution](https://github.com/dylantzx/Computational_Data_Science/blob/main/Lab_7_Word2vec_part_2.ipynb)
 8 | LSTM | [Solution](https://github.com/dylantzx/Computational_Data_Science/blob/main/Lab_8_LSTM.ipynb)
 9 | CNN | [Solution](https://github.com/dylantzx/Computational_Data_Science/blob/main/Lab_9_CNN.ipynb)
+10 | 1DCNN | [Solution](https://github.com/dylantzx/Computational_Data_Science/blob/main/Lab_10_1DCNN.ipynb)
